@@ -40,7 +40,6 @@ public class pageIndex {
     @FindBy(xpath = "//*[@id=\"root\"]/div/div/div[2]/form/button")
     public WebElement btnSiguiente_002;
     
-    
     @FindBy(xpath = "//*[@id=\"menu-item-23\"]/a")
     public WebElement extranjeria_btnTramitesEnLinea;
     
